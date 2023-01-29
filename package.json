@@ -1,8 +1,8 @@
 {
-  "name": "goit-react-hw-02-phonebook-teacher",
+  "name": "goit-react-hw-03-image-finger-teacher",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://DenysenkoSerhii.github.io/goit-react-hw-02-phonebook-teacher/",
+  "homepage": "https://DenysenkoSerhii.github.io/goit-react-hw-03-image-finger-teacher/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
